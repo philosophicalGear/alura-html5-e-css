@@ -17,8 +17,7 @@ nav {
 
 nav li {
     display: inline;
-    margin: 0 0 0 15px;
-           
+    margin: 0 0 0 15px;           
 }
 
 nav a {
@@ -61,7 +60,7 @@ nav a:hover {
 }
 
 .produtos li:hover h2 {
-    font-size: 40px;
+    font-size: 40git statuspx;
 }
 
 .produtos h2 {
