@@ -1,6 +1,6 @@
 header {
     background: #bbbbbb;
-    padding: 20px 0;    
+    padding: 20px 0;
 }
 
 .caixa {
@@ -17,7 +17,7 @@ nav {
 
 nav li {
     display: inline;
-    margin: 0 0 0 15px;           
+    margin: 0 0 0 15px;
 }
 
 nav a {
@@ -76,4 +76,16 @@ nav a:hover {
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    background: url(img/bg.jpg);
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
 }
